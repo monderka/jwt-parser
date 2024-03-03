@@ -1,2 +1,2 @@
 # jwt-parser
-Tool for simpleparsing JWTokens
+Tool for simple parsing JWTokens
